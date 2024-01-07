@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/ic_close.xml -->
+<!-- res/drawable/ic_close.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:width="8dp" android:height="8dp" android:drawable="@android:color/black" />
+    <item android:width="8dp" android:height="8dp" android:drawable="@android:color/black"
+        android:top="18dp" android:right="18dp" />
+</layer-list>
+
